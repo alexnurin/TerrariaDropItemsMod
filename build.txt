@@ -1,0 +1,3 @@
+displayName = DropItems
+author = alexnurin
+version = 0.1
